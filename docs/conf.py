@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Python implementation of IPFS'
+project = 'The Python implementation of IPFS'
 copyright = '2017, The IPFS team and friends'
 author = 'The IPFS team and friends'
 
